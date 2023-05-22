@@ -1,0 +1,30 @@
+[
+    {
+    "id":1,
+    "message":"you will leave happily ever after",
+    "lucky_number":12,
+    "spirit_animal":"lion"
+
+    },
+    {
+        "id":2,
+        "message":"you will find love by the corner",
+        "lucky_number":13,
+        "spirit_animal":"Dog"
+    
+        },
+        {
+            "id":3,
+            "message":"make love in paris",
+            "lucky_number":16,
+            "spirit_animal":"cat"
+        
+            },
+            {
+                "id":4,
+                "message":"have kids in UK",
+                "lucky_number":20,
+                "spirit_animal":"Cheater"
+            
+                }
+]
